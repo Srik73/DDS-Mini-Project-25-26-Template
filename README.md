@@ -5,9 +5,9 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2025-26) det
 
 | Sl. No. | Title (S1) | Title (S2) |
 | :---: | --- | --- |
-| 1 |  [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 2 |  [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 3 |  [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 1 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/8788215833spctcxwhhqvf#5701b7) | [(Detail)]() [(Overleaf)]() |
+| 2 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/2959872253yzqtktnwngwc#f1725f) | [(Detail)]() [(Overleaf)]() |
+| 3 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/6477466427qxwgqtkwgtdw#503579) | [(Detail)]() [(Overleaf)]() |
 | 4 |  [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 5 |  [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 6 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
