@@ -13,13 +13,13 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2025-26) det
 | 6 |  [(Detail)]() [(Overleaf)]() |  ShelfSync [(Detail)](https://github.com/kshama-jay247/S2-T6-25-26) [(Overleaf)]() |
 | 7 |  [(Detail)]() [(Overleaf)]() |  Automated Sorting System for Pharmacy Inventory Management [(Detail)](https://github.com/himanshuaggarwal924/S2-T7-25-26) [(Overleaf)]() |
 | 8 |  Digital Electronic Voting System with Locking Mechanism [(Detail)](https://github.com/Phanindra2007/S1-T8-25-26) [(Overleaf)]() |  STRAATOS [(Detail)](https://github.com/SteganoSage/S2-T8-25-26-) [(Overleaf)]() |
-| 9 |  FSM Based Washing Machine Controller [(Detail)](https://github.com/karthikeyagupta108/S1-T9-25-26) [(Overleaf)]() |  CardioCare: An FPGA-Based Pacemaker Simulator with Diagnostic and Emergency Features [(Detail)](https://github.com/Master9Wayne/S2-T9-25-26) [(Overleaf)]() |
+| 9 |  FSM-Based Washing Machine Controller [(Detail)](https://github.com/karthikeyagupta108/S1-T9-25-26) [(Overleaf)]() |  CardioCare: An FPGA-Based Pacemaker Simulator with Diagnostic and Emergency Features [(Detail)](https://github.com/Master9Wayne/S2-T9-25-26) [(Overleaf)]() |
 | 10 |  Traffic Density Based Signal Control System [(Detail)](https://github.com/kpramithrai/S1-T10-25-26) [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 11 |  Digital Morse Code Converter [(Detail)](https://github.com/rmharshitha24/S1-T11-25-26) [(Overleaf)]() |  Club Domain Allocation System [(Detail)](https://github.com/j1y4-j/S2-T11-25-26) [(Overleaf)]() |
-| 12 |  FSM BASED DIGITAL AUCTION SYSTEM[(Detail)](https://github.com/Veena-nitk/S1-T12-25-26) [(Overleaf)]() |  Railway Traffic Management System [(Detail)](https://github.com/S-Rohit-08/S2-T12-25-26) [(Overleaf)]() |
+| 12 |  FSM-Based Digital Auction System [(Detail)](https://github.com/Veena-nitk/S1-T12-25-26) [(Overleaf)]() |  Railway Traffic Management System [(Detail)](https://github.com/S-Rohit-08/S2-T12-25-26) [(Overleaf)]() |
 | 13 |  LightChaser- A Reflex Testing Digital Game [(Detail)](https://github.com/AVD1906/S1-T13-25-26) [(Overleaf)]() |  Smart Classroom Allocation System [(Detail)](https://github.com/Vidith-Murthy/S2-T13-25-26) [(Overleaf)]() |
 | 14 |  [(Detail)]() [(Overleaf)]() |  Bicycle Sharing System [(Detail)](https://github.com/akh7177/S2-T14-25-26) [(Overleaf)]() |
-| 15 |  SELF LOCKING: ELECTRONIC VOTING MACHINE [(Detail)](https://github.com/Ank-Frost/S2-T15-25-26) [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
+| 15 |  Self Locking: Electronic Voting Machine [(Detail)](https://github.com/Ank-Frost/S2-T15-25-26) [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 16 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 17 |  Queue Management System In Hospitals [(Detail)](https://github.com/pranathi-lagudu/S1-T17-25-26) [(Overleaf)]() |  Coin Based Multi Fluid Dispenser [(Detail)](https://github.com/PremSai-1259/S2-T17-25-26) [(Overleaf)]() |
 | 18 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
