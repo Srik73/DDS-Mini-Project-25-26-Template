@@ -11,19 +11,19 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2025-26) det
 | 4 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/1554373558rcfrzxtjksrm#f5e94f) | [(Detail)]() [(Overleaf)]() |
 | 5 |  [(Detail)]() [(Overleaf)]() | Binary Puzzle Game [(Detail)](https://github.com/aditi0556/S2-T5-25-26) [(Overleaf)]() |
 | 6 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
-| 7 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
+| 7 |  [(Detail)]() [(Overleaf)]() |  Automated Sorting System for Pharmacy Inventory Management [(Detail)](https://github.com/himanshuaggarwal924/S2-T7-25-26) [(Overleaf)]() |
 | 8 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 9 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 10 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
-| 11 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
+| 11 |  [(Detail)]() [(Overleaf)]() |  Club Domain Allocation System [(Detail)](https://github.com/j1y4-j/S2-T11-25-26) [(Overleaf)]() |
 | 12 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 13 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 14 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 15 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 16 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
-| 17 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
+| 17 |  [(Detail)]() [(Overleaf)]() |  Coin Based Multi Fluid Dispenser [(Detail)](https://github.com/PremSai-1259/S2-T17-25-26) [(Overleaf)]() |
 | 18 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
-| 19 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
+| 19 |  [(Detail)]() [(Overleaf)]() |  Dockyard Allotment System [(Detail)](https://github.com/nikhileswar-ambati/S2-T19-25-26) [(Overleaf)]() |
 | 20 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 21 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
 | 22 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
