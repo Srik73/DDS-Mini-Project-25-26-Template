@@ -1,31 +1,70 @@
-# DDS Mini Project - 2025-26
-Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2025-26) details ...
+# Write your mini-project title
 
-## List:
+<!-- First Section -->
+## Team Details
+<details>
+  <summary>Detail</summary>
 
-| Sl. No. | Title (S1) | Title (S2) |
-| :---: | --- | --- |
-| 1 |  Over-Speed Vehicle Detector with Automatic Ticketing [(Detail)](https://github.com/aadharsh06/S1-T1-25-26) [(Overleaf)](https://www.overleaf.com/8788215833spctcxwhhqvf#5701b7) | Smart System for Detection of Restricted Electronic items [(Detail)](https://github.com/Tanmay-gsn/DDS-Mini-Project_S2-T1) [(Overleaf)](https://www.overleaf.com/project/68e1e908f75db8e184d19760) |
-| 2 |  ResQ-Manager: A Priority-Based Disaster Relief System [(Detail)](https://github.com/Rudr-1705/S1-T2-25-26) [(Overleaf)](https://www.overleaf.com/2959872253yzqtktnwngwc#f1725f) | Watt Watcher: Smart FSM-Based Power  Management for Shared Spaces [(Detail)](https://github.com/Srik73/S2-T2-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e90df75db8e184d197c3) |
-| 3 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/6477466427qxwgqtkwgtdw#503579) | CRF Prototype [(Detail)](https://github.com/ResiduosCodeur/S2-T3-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e912820c5820e4510378) |
-| 4 |  UniQuad System [(Detail)](https://github.com/compu-TEE/S1-T4-25-26) [(Overleaf)](https://www.overleaf.com/1554373558rcfrzxtjksrm#f5e94f) | Pipeline leakage detector [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/68e1e918102adb1198fc14a0) |
-| 5 |  Traffic Light Controller with Pedestrian Crossing [(Detail)](https://github.com/yoman12357/S1-T5-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e89fef5b9104f3e74178) | Binary Puzzle Game [(Detail)](https://github.com/aditi0556/S2-T5-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e91d2d8de391137738d6) |
-| 6 |  Smart Mess Menu Optimizer Using Digital Feedback System [(Detail)](https://github.com/philomaths6-sys/S1-T6-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8a58e0f10bb763389f6) |  ShelfSync [(Detail)](https://github.com/kshama-jay247/S2-T6-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e921f75db8e184d1a183) |
-| 7 |  Energy-Saving Classroom Lighting System [(Detail)](https://github.com/AppajiDheeraj/S1-T7-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8ac102adb1198fc0870) |  Automated Sorting System for Pharmacy Inventory Management [(Detail)](https://github.com/himanshuaggarwal924/S2-T7-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e927102adb1198fc1633) |
-| 8 |  Digital Electronic Voting System with Locking Mechanism [(Detail)](https://github.com/Phanindra2007/S1-T8-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8b18e0f10bb76338c69) |  STRAATOS [(Detail)](https://github.com/SteganoSage/S2-T8-25-26-) [(Overleaf)](https://www.overleaf.com/project/68e1e92c8e0f10bb763397f3) |
-| 9 |  FSM-Based Washing Machine Controller [(Detail)](https://github.com/karthikeyagupta108/S1-T9-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8b7a13055a9b9e14e01) |  CardioCare: An FPGA-Based Pacemaker Simulator with Diagnostic and Emergency Features [(Detail)](https://github.com/Master9Wayne/S2-T9-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e931f75db8e184d1a2bc) |
-| 10 |  Traffic Density Based Signal Control System [(Detail)](https://github.com/kpramithrai/S1-T10-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8bd102adb1198fc0987) |  PathFinder: A Campus Navigation System [(Detail)](https://github.com/AkDang671/S2-T10-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e937102adb1198fc1797) |
-| 11 |  Digital Morse Code Converter [(Detail)](https://github.com/rmharshitha24/S1-T11-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8c3820c5820e450fb3f) |  Club Domain Allocation System [(Detail)](https://github.com/j1y4-j/S2-T11-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e93cf75db8e184d1a4b8) |
-| 12 |  FSM-Based Digital Auction System [(Detail)](https://github.com/Veena-nitk/S1-T12-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8c9820c5820e450fbb6) |  Railway Traffic Management System [(Detail)](https://github.com/S-Rohit-08/S2-T12-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e9488e0f10bb76339a48) |
-| 13 |  LightChaser- A Reflex Testing Digital Game [(Detail)](https://github.com/AVD1906/S1-T13-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8cef75db8e184d191db) |  Smart Classroom Allocation System [(Detail)](https://github.com/Vidith-Murthy/S2-T13-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e94e102adb1198fc19b2) |
-| 14 |  SecTrak - Sequence Detector [(Detail)](https://github.com/darshan-gittygit/SecTrak_Sequence-Detector) [(Overleaf)](https://www.overleaf.com/project/68e1e8d32d8de3911377311e) |  Bicycle Sharing System [(Detail)](https://github.com/akh7177/S2-T14-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e9548e0f10bb76339bc4) |
-| 15 |  Insolvency Early Warning System [(Detail)](https://github.com/adityagayan241cs103/S1-T15-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8d9f75db8e184d19328) |  Self Locking: Electronic Voting Machine [(Detail)](https://github.com/Ank-Frost/S2-T15-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e959820c5820e4510a53) |
-| 16 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/68e1e8de102adb1198fc0dd9) |  Compact digital calendar [(Detail)](https://github.com/Ankit-kumar-saran/S2-T16-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e95e8e0f10bb76339c85) |
-| 17 |  Queue Management System In Hospitals [(Detail)](https://github.com/pranathi-lagudu/S1-T17-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8e4102adb1198fc0e5c) |  Coin Based Multi Fluid Dispenser [(Detail)](https://github.com/PremSai-1259/S2-T17-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e964820c5820e4510b57) |
-| 18 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/68e1e8e9820c5820e450ffaf) |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/68e1e969820c5820e4510bb4) |
-| 19 |  Disaster Warning Device [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/68e1e8eff75db8e184d194f1) |  Dockyard Allotment System [(Detail)](https://github.com/nikhileswar-ambati/S2-T19-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e96e2d8de39113773fb8) |
-| 20 |  [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/68e1e8f52d8de39113773424) |  Digital Medicine Reminder Box [(Detail)](https://github.com/Vivek-027/S2-T20-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e975ef5b9104f3e765f1) |
-| 21 |  Smart Parking System with Emergency Evacuation [(Detail)](https://github.com/RVBilimagga/-S1-T21-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e8fb820c5820e4510134) |  SpaceCraft docking alignment and space traffic timing control system (ISS) [(Detail)](https://github.com/Shiv9936A/S2_T21) [(Overleaf)](https://www.overleaf.com/project/68e1e97ba13055a9b9e160c8) |
-| 22 |  Automatic Visitor Counter and Power Control [(Detail)](https://github.com/kethavath-Muni18/S1-T22-25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e900f75db8e184d196a9) |  Smart Home Control Unit [(Detail)](https://github.com/Chinmay-coder123/S2_T22__25-26) [(Overleaf)](https://www.overleaf.com/project/68e1e980820c5820e4510eb0) |
-| 23 |  [(Detail)]() [(Overleaf)]() |  [(Detail)]() [(Overleaf)]() |
-| 24 |  [(Detail)]() [(Overleaf)]() | - |
+  > Semester: 3rd Sem B. Tech. CSE
+
+  > Section: S1/S2
+
+  > Team ID: 
+
+  > Member-1: Name, Roll No., email
+
+  > member-2: Name, Roll No., email
+
+  > Member-3: Name, Roll No., email
+</details>
+
+<!-- Second Section -->
+## Abstract
+<details>
+  <summary>Detail</summary>
+  
+  > Write your updated abstract here
+</details>
+
+## Functional Block Diagram
+<details>
+  <summary>Detail</summary>
+  
+  ![sample](https://github.com/user-attachments/assets/588c9f81-997e-431b-8da3-0b40f3713d4e)
+
+</details>
+
+<!-- Third Section -->
+## Working
+<details>
+  <summary>Detail</summary>
+
+  > Explain how your model works with the help of a functional table (compulsory) followed by the flowchart.
+</details>
+
+<!-- Fourth Section -->
+## Logisim Circuit Diagram
+<details>
+  <summary>Detail</summary>
+
+  > Update a neat logisim circuit diagram
+</details>
+
+<!-- Fifth Section -->
+## Verilog Code
+<details>
+  <summary>Detail</summary>
+
+  > Neatly update the Verilog code in code style only.
+</details>
+
+## References
+<details>
+  <summary>Detail</summary>
+  
+> BBC News. *India train crash: At least 275 dead in Odisha, 2023*. Accessed: 2024-09-30.  
+   [(https://www.bbc.com/news)](https://www.bbc.com/news/world-asia-india-65793257)
+   
+</details>
+
+
